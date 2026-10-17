@@ -1,6 +1,6 @@
 ## Toolchains
 
-- Use rstack cli for linting and formatting (node_modules/rstack/docs/llms.txt)
+- Use Vite+ (`vp`) for linting, formatting, and type checks. Configure it in `vite.config.ts`.
 - Use bun for package management and runtime code, including unit tests (https://bun.sh/llms.txt)
 
 ## General Rules
